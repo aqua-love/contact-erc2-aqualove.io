@@ -49,7 +49,7 @@ NETWORK=ropsten truffle deploy --network ropsten  --reset
 ## Deploy 인자
 
 : name , symbol , decimals, initialSupply
-: "CRYPTO AQUARLOVE" , "AQUARLOVE" , 18 , 10000000000
+: "AQUARLOVE" , "AQL" , 18 , 10000000000
 
 ## Test
 
