@@ -59,4 +59,4 @@ NETWORK=ropsten truffle deploy --network ropsten  --reset
 
 ## mainnet AQUARLOVE token address
 
-<https://etherscan.io/token/0x540D3087B21F31F9A810385c94627a067cfD0b08>
+<https://etherscan.io/token/>
