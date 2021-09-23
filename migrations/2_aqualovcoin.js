@@ -13,7 +13,7 @@ const wallet = process.env.FUND_COLLECTOR_ADDRESS;
 // Mainnet - Ethereum
 // @see https://etherscan.io/token/ reserved at 2021 0815 15:00 
 const AQUARLOVE_TOKEN_ADDRESS_MAINNET =
-    "0x330d3087b21f31f9a810385c94627a067cfd3632";
+    "0x330d3087b21f31f32810385c94627a067cfd3632";
 
 
 // Deployer
