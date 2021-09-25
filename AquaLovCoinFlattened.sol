@@ -782,7 +782,7 @@ abstract contract ERC20Pausable is ERC20, Pausable {
 }
 
 
-pragma solidity ^0.6.10;
+pragma solidity ^0.6.0;
 
 
 //ERC20("CRYPTO AQUARLOVE", "AQUARLOVE")
