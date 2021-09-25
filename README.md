@@ -1,5 +1,9 @@
 # Update issue
 
+## 2021-09-25
+
+*
+
 ## 2021-09-23
 
 ```
@@ -53,10 +57,20 @@ NETWORK=ropsten truffle deploy --network ropsten  --reset
 
 ## Test
 
-- In order to run the whole tests
+* In order to run the whole tests
   `truffle test`
-- In order to run only specific test file
+* In order to run only specific test file
 
 ## mainnet AQUARLOVE token address
 
 <https://etherscan.io/token/???????>
+
+## remix url
+
+<http://remix.ethereum.org/#optimize=false&evmVersion=null&version=soljson-v0.6.6+commit.6c089d02.js&runs=200>
+
+## [erc20 constructor arguments abi-encoded](https://abi.hashex.org/)
+  
+```text
+00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000941515541524c4f56450000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000341514c0000000000000000000000000000000000000000000000000000000000
+```
